@@ -1,0 +1,4 @@
+#ignore credentials
+*.env
+#ignore data directory
+data/
